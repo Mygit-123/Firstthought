@@ -9,11 +9,11 @@
 </head>
 <body class="blue">
 <div class="dn">
+    
+<img class="boost" src="Untitled design (10).png">
     <img class="pehla" src="Thought world.png">
-   <div class="orange">
-<h2 class="orangetext">6. Fear is the lock that does not allow you to be happy</h2>
-<img class="bloom" src="https://www.artofliving.org/sites/www.artofliving.org/files/styles/facebook_thumb/public/unity2/blog_image/WHAT-IS-FEAR.jpg?itok=ZRNgHCdL">
-</div>
+  <h2 class="starting">7 thoughts that would boost your day</div>
+   <div/>
     <div class="violet">
     <h2 class="violettext">1. Happiness and dedication is what you need to bloom in the world</h2>
     <img class="bloom" src="canvaimg.png">
