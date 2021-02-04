@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 <title>Thought world</title>
 <head>
@@ -8,13 +8,12 @@
   <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
 </head>
 <body class="blue">
-
+<div class="dn">
     <img class="pehla" src="Thought world.png">
-    <div class="7">
-      
-    <h1>7 Thoughts that would boost you day</h1>
-    <img class="boost" src="Untitled design (10).png">
-  </div>
+   <div class="orange">
+<h2 class="orangetext">6. Fear is the lock that does not allow you to be happy</h2>
+<img class="bloom" src="https://www.artofliving.org/sites/www.artofliving.org/files/styles/facebook_thumb/public/unity2/blog_image/WHAT-IS-FEAR.jpg?itok=ZRNgHCdL">
+</div>
     <div class="violet">
     <h2 class="violettext">1. Happiness and dedication is what you need to bloom in the world</h2>
     <img class="bloom" src="canvaimg.png">
@@ -50,5 +49,3 @@
 <h4>©Copyright 2021. All rights reserved</h4>
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</body>
-</html>
